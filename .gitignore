@@ -1,0 +1,11 @@
+dev
+node_modules
+vendor
+app/config.php
+app/config_dev.php
+public_html/files
+public_html/img
+public_html/themes
+composer.lock
+composer.phar
+Thumbs.db
